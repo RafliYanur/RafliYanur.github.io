@@ -1,1 +1,20 @@
-# RafliYanur.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Datang di Instagram Ku</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>SELAMAT DATANG DI INSTAGRAM KU</h1>
+    <p>Terima kasih sudah mengunjungi halaman web saya.</p>
+</body>
+</html>
+
